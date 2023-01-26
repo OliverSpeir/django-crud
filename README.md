@@ -5,6 +5,8 @@
 ### Author: Oliver Speir
 
 ### Description
+- Full crud with styling of each page
+- Nav bar added
 
 ### Setup
 
@@ -13,3 +15,5 @@
 - test: `pytest test_sample.py`
 
 ### Resources
+- Tailwind
+- Flowbite
